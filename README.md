@@ -6,8 +6,6 @@ I'm Kenn a 2nd-year BS Computer Science student, majoring in Network and Informa
 
 🌱 In cybersecurity, I'm currently exploring and experimenting with kali linux tools ✧
 
-🔭 I’m currently working on a web-based Lab reservation System, Reserve++
-
 📫 How to reach me: kennese_manalang@dlsu.edu.ph
 
 ### Languages
