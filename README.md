@@ -8,14 +8,11 @@ I'm Kenn a 2nd-year BS Computer Science student, majoring in Network and Informa
 
 📫 How to reach me: kennese_manalang@dlsu.edu.ph
 
-### Languages
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,c"/>
+### Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,mysql,mongodb,react,nodejs,"/>
+  <img src="https://skillicons.dev/icons?i=wordpress,windows,ubuntu,linux,kali,postman,vscode,idea,git,github"/>
+</p>
 
-### Frameworks & Databases
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,react,nodejs,wordpress"/>
-
-### Tools
-<img src="https://skillicons.dev/icons?i=windows,ubuntu,linux,kali,postman,vscode,idea"/>
-
-### Badges (Work in progres...)
+#### Badges (Work in progress...)
 <img src="assets/isc2_candidate.png" width="50"/>
