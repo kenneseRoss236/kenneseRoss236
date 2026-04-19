@@ -14,5 +14,3 @@ I'm Kenn a 2nd-year BS Computer Science student, majoring in Network and Informa
   <img src="https://skillicons.dev/icons?i=wordpress,windows,ubuntu,linux,kali,postman,vscode,idea,git,github"/>
 </p>
 
-#### Badges (Work in progress...)
-<img src="assets/isc2_candidate.png" width="50"/>
